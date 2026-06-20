@@ -1,0 +1,1 @@
+g++ src/main.cpp src/engine.cpp src/utils.cpp -o mainex -lSDL2 -lSDL2_ttf
